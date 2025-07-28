@@ -27,7 +27,7 @@
 **Trap Contract**: `ETHLossTrap.sol`
 
 ```solidity
-address public constant target = 0x6493490386f9F78205B284B99A2E6126C4167498;
+address public constant target = 0x6493...7498;
 uint256 public constant thresholdPercent = 1;             // 1%
 uint256 public constant minDiffWei = 0.01 ether;          // 0.01 ETH
 ```
@@ -89,7 +89,7 @@ response_contract = "0xВаш_адрес_LogAlertReceiver"
 response_function = "logAnomaly(string)"
 block_sample_size = 10
 private_trap = true
-whitelist = ["0x6493490386f9F78205B284B99A2E6126C4167498"]
+whitelist = ["0x6493...7498"]
 address = "0xАдрес_ловушки_на_hoodi"
 ```
 
