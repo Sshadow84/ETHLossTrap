@@ -129,8 +129,8 @@ journalctl -u drosera.service -f
 ---
 
 ## 📅 Date & Author
-
 🗓️ **First created**: July 28, 2025  
 👤 **Author**: Sshadow84  
-📬 **Telegram**: [@Sshadow84](https://t.me/Sshadow84)  
+📬 **Telegram**: [@rudija](https://t.me/rudija)  
+💬 **Discord**: sahamiess  
 📦 **GitHub**: [github.com/Sshadow84](https://github.com/Sshadow84)
