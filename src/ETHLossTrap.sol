@@ -7,7 +7,7 @@ interface ITrap {
 }
 
 contract ETHLossTrap is ITrap {
-    address public constant target = 0x6493490386f9F78205B284B99A2E6126C4167498;
+    address public constant target = 0x6493...7498;
     uint256 public constant thresholdPercent = 1;
     uint256 public constant minDiffWei = 0.01 ether;
 
